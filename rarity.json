@@ -1,0 +1,26 @@
+{
+    "Mythic": {
+        "weight": 0.01,
+        "color": 95
+    },
+    "Legendary" : {
+        "weight": 0.1,
+        "color": 33
+    },
+    "Epic": {
+        "weight": 1,
+        "color": 35
+    },
+    "Rare": {
+        "weight": 10,
+        "color": 36
+    },
+    "Uncommon": {
+        "weight": 40,
+        "color": 32
+    },
+    "Common": {
+        "weight": 70,
+        "color": 90
+    }
+}
